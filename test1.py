@@ -1,0 +1,2 @@
+from ktpocr import KTPOCR
+

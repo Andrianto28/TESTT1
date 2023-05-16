@@ -1,0 +1,21 @@
+{
+    "nik": "",
+    "nama": "Nama",
+    "tempat_lahir": "",
+    "tanggal_lahir": "",
+    "jenis_kelamin": "",
+    "golongan_darah": "-",
+    "alamat": "A",
+    "rt": "",
+    "rw": "",
+    "kelurahan_atau_desa": "",
+    "kecamatan": "",
+    "agama": "",
+    "status_perkawinan": "KAWIN",
+    "pekerjaan": "Pekerjaan",
+    "kewarganegaraan": "WNA",
+    "SCORE_FR": "0.65",
+    "SCORE_OCR": "0.0",
+    "SCORE_ASID": "0.45",
+    "SCORE_CAT": "Verifikasi Sangat Buruk & Fraud Sangat Tinggi"
+}
